@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Varun
-permalink: /blog/about/
+permalink: /about/
 tags: about
 ---
 
