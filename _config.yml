@@ -4,7 +4,7 @@ email:       ca.aawc@yahoo.com
 author:      Varun Khaneja
 description: "A collection of thoughts, ramblings, observations and rants."
 baseurl:     "/blog"
-url:         "https://varun.khaneja.org"
+url:         "https://varun.khaneja.org/blog"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -74,10 +74,7 @@ text:
     twitter:      'Share on Twitter'
     googleplus:   'Share on Google+'
     linkedin:     'Share on LinkedIn'
-    digg:         'Share on Digg'
-    tumblr:       'Share on Tumblr'
     reddit:       'Share on Reddit'
-    stumbleupon:  'Share on StumbleUpon'
     hackernews:   'Share on Hacker News'
   post:
     updated:        'Updated'
