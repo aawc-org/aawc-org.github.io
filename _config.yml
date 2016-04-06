@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+title:       After All, Who Cares?
+email:       ca.aawc@yahoo.com
+author:      Varun Khaneja
+description: "A collection of thoughts, ramblings, observations and rants."
+baseurl:     "/blog"
+url:         "https://varun.khaneja.org"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -28,7 +28,7 @@ enable_anchorjs: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: aawc
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
