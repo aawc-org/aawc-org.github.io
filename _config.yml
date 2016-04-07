@@ -3,8 +3,8 @@ title:       After All, Who Cares?
 email:       ca.aawc@yahoo.com
 author:      Varun Khaneja
 description: "A collection of thoughts, ramblings, observations and rants."
-baseurl:     "/blog"
-url:         "https://varun.khaneja.org/blog"
+baseurl:     ""
+url:         "https://aawc-org.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
