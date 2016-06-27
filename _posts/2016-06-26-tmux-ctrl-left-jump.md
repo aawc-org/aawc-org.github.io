@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Jump over words in tmux using Ctrl+Left/Right
-date:       2016-06-20 19:07:48
+date:       2016-06-26 19:07:48
 summary:    Learn how to enable (or disable) jumping over words using Ctrl+Left/Right when using tmux.
 categories: tmux productivity shortcuts
 ---
